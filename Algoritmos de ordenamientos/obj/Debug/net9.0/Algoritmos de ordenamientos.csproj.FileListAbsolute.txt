@@ -1,0 +1,14 @@
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\bin\Debug\net9.0\Algoritmos de ordenamientos.exe
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\bin\Debug\net9.0\Algoritmos de ordenamientos.deps.json
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\bin\Debug\net9.0\Algoritmos de ordenamientos.runtimeconfig.json
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\bin\Debug\net9.0\Algoritmos de ordenamientos.dll
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\bin\Debug\net9.0\Algoritmos de ordenamientos.pdb
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\obj\Debug\net9.0\Algoritmos de ordenamientos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\obj\Debug\net9.0\Algoritmos de ordenamientos.AssemblyInfoInputs.cache
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\obj\Debug\net9.0\Algoritmos de ordenamientos.AssemblyInfo.cs
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\obj\Debug\net9.0\Algoritmos de ordenamientos.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\obj\Debug\net9.0\Algoritmos de ordenamientos.dll
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\obj\Debug\net9.0\refint\Algoritmos de ordenamientos.dll
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\obj\Debug\net9.0\Algoritmos de ordenamientos.pdb
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\obj\Debug\net9.0\Algoritmos de ordenamientos.genruntimeconfig.cache
+C:\Users\Jorge Rayber Acosta\Desktop\Clase EDD\Algoritmos de ordenamientos\Algoritmos de ordenamientos\obj\Debug\net9.0\ref\Algoritmos de ordenamientos.dll
